@@ -1,7 +1,7 @@
 # PRG101-Lab7
 ### Submission Details
 
-In this lab, you will create eight simple scripts. Write the scripts in codespaces.
+In this lab, you will create eight simple scripts. Write the scripts in Jupyter Notebook or Codespaces.
 Please note that you must complete the lab during class hours and show your progress to the professor to receive the marks for the lab.
 
 ### Lab Objectives

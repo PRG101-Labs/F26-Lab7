@@ -16,3 +16,17 @@
 
 # TO DO 5: Run the script.
 
+import numpy as np
+array1=np.arange(20,50)
+arr1_rshpe=np.reshape(array1,(5,6))
+print(arr1_rshpe,'\n')
+
+array2=np.array(range(20,50))
+arr2_rshpe=np.reshape(array2,(2,3,5))
+print(arr2_rshpe,'\n')
+
+array5=np.diag([45, 7, 61, 8, 9])
+print("Diagonal array: \n",array5)
+
+array6=np.random.randn(7,7)
+print("\n",array6)

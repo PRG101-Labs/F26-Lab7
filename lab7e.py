@@ -14,3 +14,9 @@
 
 # TO DO 4: Run the script.
 
+import pandas as pd
+grade_list=["<50", "50-59", "60-69", "70-79", "80-89", "90-100"]
+grades.pdSeries(grade_list,index=["F", "D", "C", "B", "A", "A+"])
+print(grades)
+print(grades.loc[["C","A+"]])
+print(grades.iloc[2])
